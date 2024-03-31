@@ -1,0 +1,20 @@
+:root {
+  /* base */
+  --base-white: #FFFFFF;
+  --base-black: #000000;
+
+  /* 💻 web/neutral */
+  --neutral-100-base: #F3F4F6;
+  --neutral-300-base: #D0D5DC;
+  --neutral-400-base: #9CA3B0;
+  --neutral-500-base: #6B7280;
+
+  /* 💻 web/primary */
+  --primary-500-base: #00A8A5;
+
+  /* 💻 web/error */
+  --error-500-base: #EF4343;
+
+  /* other */
+  --box-shadow: 0 0 0 2px rgba(107, 114, 128, 0.1);
+}
